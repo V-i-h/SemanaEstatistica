@@ -1,0 +1,1 @@
+print('Alô Mundo \nSemana Estatística')
